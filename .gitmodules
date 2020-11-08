@@ -1,0 +1,3 @@
+[submodule "submodules/CommonModule"]
+	path = submodules/CommonModule
+	url = https://github.com/SweetTool/CommonModule.git
